@@ -1,0 +1,112 @@
+.fundo {
+    background-image: url("../../img/wallpaper-login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0px;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border-radius: 10px;
+    height: 30vw;
+    width: 30%;
+    margin: 7% auto;
+
+    padding: auto;
+    
+    
+}
+
+.card-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-title {
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 5px;
+
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+.card-input {
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border-radius: 5px;
+    border: none;
+
+    width: 70%;
+    height: 30px;
+
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+.card-input:focus {
+    border: none;
+    outline: 0;
+}
+
+.card-input::placeholder {
+    color: white;
+    letter-spacing: 2px;
+}
+
+.card-button {
+    background: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border-radius: 5px;
+    border: none;
+    width: 73%;
+    height: 35px;
+    cursor: pointer;
+    font-size: 20px;
+    letter-spacing: 5px;
+    padding: 5px 10px 5px 10px;
+    margin: 20px auto 3px auto;
+}
+
+.card-button:hover {
+    opacity: 0.5;
+    transition: 0.5s linear;
+}
+
+
+.card-alert {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    align-self: flex-start;
+    margin-left: 14%;
+    cursor: pointer;
+
+}
+
+.card-recovery {
+    text-align: start;
+    letter-spacing: 2px;
+    font-size: 12px;
+    padding: 2px 10px 30px;
+    width: 70%;
+}
