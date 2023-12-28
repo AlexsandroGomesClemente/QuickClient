@@ -1,0 +1,50 @@
+⦁	Cinco colegas foram a um parque de diversões e um deles entrou sem pagar. Apanhados por um funcionário do parque, que queria saber qual deles entrou sem pagar, eles informaram: 
+
+– "Não fui eu, nem o Manuel", disse Marcos. 
+– "Foi o Manuel ou a Maria", disse Mário. 
+– "Foi a Mara", disse Manuel. 
+– "O Mário está mentindo", disse Mara. 
+– "Foi a Mara ou o Marcos", disse Maria. 
+
+Sabendo-se que um e somente um dos cinco colegas mentiu, conclui-se logicamente que quem entrou sem pagar foi: B) Mara
+
+
+⦁	Luiz, Mário e Heitor são amigos e dois fatos são conhecidos a respeito deles (1) ou Luiz ou Mário é o mais velho dos três. (2) Ou Heitor é o mais velho ou Luiz é o mais jovem. Pode-se concluir que: 
+    Resposta: Luiz é o mais velho e Mário é o mais jovem. 
+
+
+⦁	Quatro carros de cores diferentes, amarelo, verde, azul e preto, não - necessariamente nessa ordem, formam uma fila. O carro que está imediatamente antes do carro azul é menos veloz do que o que está imediatamente depois do carro azul. O carro verde é o menos veloz de todos e está depois do carro azul. O carro amarelo está depois do carro preto. As cores do primeiro e do segundo carro da fila, são, respectivamente, :
+c) preto e amarelo
+
+
+⦁	João e José sentam-se, juntos, em um restaurante. O garçom, dirigindo-se a João, pergunta lhe: "Acaso a pessoa que o acompanha é seu irmão?". João responde ao garçom: "Sou filho único, e o pai da pessoa que me acompanha é filho de meu pai".  Então, José é: 
+c) tio de João.
+
+⦁	 Uma lesma deve subir um poste de 10 metros de altura. De dia sobe 2m e à noite desce 1m. Em quantos dias atingirá o topo do poste?
+Resposta: 10 dias
+
+⦁	Um pescador esta do lado de um rio, ele tem um barco e precisa levar um saco de milho, uma galinha e uma raposa para o outro lado, o barco só aguenta ele e mais alguma coisa (milho ou a galinha ou a raposa). Ele não pode deixar a galinha com o milho, porque a galinha comeria o milho, e nem pode deixar a galinha com a raposa, se não a raposa comeria a galinha... O que ele deve fazer?
+
+1) O pescador leva a galinha para o outro lado e deixa-a lá.
+2) O pescador volta sozinho para o lado original.
+3) O pescador leva a raposa para o outro lado.
+4) No outro lado, ele deixa a raposa, mas pega a galinha.
+5) O pescador volta para o lado original com a galinha.
+6) Agora, ele leva o saco de milho para o outro lado.
+7) Por fim, ele volta sozinho para o lado original e pega a galinha.
+
+⦁	Considere a seqüência de figuras abaixo e assinale qual é, entre as quatro opções apresentadas, a figura que completa esta seqüência? 
+Resposta: Figura D
+
+
+⦁	 Considere a seqüência de figuras abaixo.
+Respota: Figura E
+
+⦁	Dado o Alfabeto abaixo, escreva a próxima letra:
+ c)  a  e  i  b  f
+
+
+⦁	Sendo o Vetor V igual à:
+
+1)V[ X + 1 ]= 2  2)V[ V[8] ] = 62     3) V[V[1] * V[3]]= 18  4)V[9–V[4]]= 2                      
+
