@@ -1,0 +1,24 @@
+⦁	Uma consulta SQL que retorne todos os talhões da propriedade 20 na safra 2022 ordenada pelo código do talhão.
+SELECT *
+FROM TALHAO
+WHERE TALH_CODIGO_PROP = 20 AND TALH_SAFRA = 2022
+ORDER BY TALH_CODIGO;
+
+⦁	Uma consulta que mostre a soma das áreas de todas as propriedades.
+SELECT SUM(PROP_AREA) AS SOMA_AREAS
+FROM PROPRIEDADE_AGRICOLA;
+
+⦁	Uma consulta que retorne todos os talhões com código maior que 15 na safra 2023 e da propriedade 5 ordenada pelo código do talhão.
+SELECT *
+FROM TALHAO
+WHERE TALH_CODIGO > 15 AND TALH_SAFRA = 2023 AND TALH_CODIGO_PROP = 5
+ORDER BY TALH_CODIGO;
+ 
+⦁	Uma consulta que retorne quantos talhões tem na safra 2021.
+
+ SELECT COUNT(*) AS QTD_TALHOES_2021
+FROM TALHAO
+WHERE TALH_SAFRA = 2021;
+
+⦁	 Uma consulta que retorne quantos talhões a propriedade 10 tem na safra 2022.
+
