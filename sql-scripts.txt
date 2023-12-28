@@ -22,3 +22,7 @@ WHERE TALH_SAFRA = 2021;
 
 ⦁	 Uma consulta que retorne quantos talhões a propriedade 10 tem na safra 2022.
 
+SELECT COUNT(*) AS QTD_TALHOES_PROP_10_2022
+FROM TALHAO
+WHERE TALH_CODIGO_PROP = 10 AND TALH_SAFRA = 2022;
+
